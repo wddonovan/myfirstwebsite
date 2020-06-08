@@ -1,3 +1,3 @@
 # williamdonovan.github.io
-website
+personal website
 https://wddonovan.github.io/williamdonovan
