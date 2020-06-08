@@ -31,8 +31,6 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url(https://drive.google.com/drive/u/0/folders/1jbWpKRS8zpYmKqnKl_wW1cV4u0uCe1h6);
-  background-size: cover;
   color: #ffffff;
   height: 500px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
